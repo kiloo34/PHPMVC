@@ -1,5 +1,8 @@
 {
+    "autoload": {
+        "psr-4": {"PHPMVC\\": "App/"}
+    },
     "require": {
-        "consoletvs/charts": "6.*"
+        "nesbot/carbon": "^2.5"
     }
 }
