@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://localhost:8888/AppName/public');
+define('BASEURL', 'http://localhost:8888/phpmvc/public');
 
 //DB
 define('DB_HOST', 'localhost:8889');
